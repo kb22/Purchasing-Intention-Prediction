@@ -1,5 +1,5 @@
-# Purchasing-Intention-Prediction
-The project includes predicting whether or not a visitor will shop.
+# Purchasing Intention Prediction
+The project includes predicting whether or not a visitor will generate revenue.
 
 ## Set up
 1. You can use the `requirements.txt` file to setup a virtual environment.
